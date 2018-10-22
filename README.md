@@ -1,4 +1,4 @@
-# Simple-BasicCalculator
+# BasicCalculator
 Kalkulator sederhana untuk perhitungan dasar.
 <br>
 <br>
